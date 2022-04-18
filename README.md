@@ -1,0 +1,1 @@
+# TratamentoDeDados-CheckDirsuptive
